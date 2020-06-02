@@ -8,5 +8,7 @@ Model Architecture:
 Conv2D=>MaxPool2D=>Conv2D=>Conv2D=>MaxPool2D=>Dense=>Dense
 
 Training Accuracy: 99.97%
+
 Validation Accuracy: 99.28%
+
 Test Accuracy: 99.30%
