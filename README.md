@@ -12,3 +12,53 @@ Training Accuracy: 99.97%
 Validation Accuracy: 99.28%
 
 Test Accuracy: 99.30%
+## Getting Started
+
+### Dependencies
+
+* Jupyter Notebook required
+
+* Python Libraries
+
+    - Imutils
+    - Tensorflow
+    - Keras
+    - Numpy
+    - cv2
+    - os
+    - Scikit-Learn
+    - Matplotlib
+
+### Installing
+
+* Download Jupyter Notebook
+
+* No further installation
+
+
+### Executing program
+
+There are 4 phases of this program, run each of them.
+
+* Train a Deep Convolutional Neural Network to recognize numbers 0-9 using the Handwritten Number Dataset
+
+* Detect and localize multiple numbers in the in the Binary Threshold image using Contours Detection method of OpenCV 
+* Classify the selected Contours using the Trained DCNN model
+
+## Help
+
+Installing the libraries beforehand will solve most issues
+
+## Authors
+
+Contributors names and contact info 
+ex. [@priyanshkedia04](https://github.com/priyanshkedia04)
+
+## Version History
+
+* 0.1
+    * Initial Release
+
+## License
+
+GNU General Public License v3.0
