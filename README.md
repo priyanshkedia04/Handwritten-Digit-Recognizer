@@ -42,7 +42,10 @@ There are 4 phases of this program, run each of them.
 
 * Train a Deep Convolutional Neural Network to recognize numbers 0-9 using the Handwritten Number Dataset
 
-* Detect and localize multiple numbers in the in the Binary Threshold image using Contours Detection method of OpenCV 
+* Take a Test image with numbers written on a white plain sheet.
+
+* Localize and detect multiple numbers in the in the Binary Threshold image using Contours Detection method of OpenCV 
+
 * Classify the selected Contours using the Trained DCNN model
 
 ## Help
